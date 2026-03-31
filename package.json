@@ -1,0 +1,12 @@
+{
+  "name": "invt-soporte-bot",
+  "version": "1.0.0",
+  "description": "Bot de soporte tecnico INVT Iberica para Telegram",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
